@@ -7,7 +7,7 @@ That the hours are blurring
 How difficult it is to sketch your features  
 Half a day after parting  
 
-**Verse 2 **
+**Verse 2 **  
 Air, if your eyes were black figs  
 If your teeth were lemon wedges  
 I don't remember the arch of your eyebrows  
