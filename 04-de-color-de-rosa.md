@@ -1,6 +1,6 @@
 # De Color de Rosa - The Color of Pink
 
-**Verso 1**  
+**Verse 1**  
 It seems that all the songs  
 Will be singing of me today  
 I'm in love  
@@ -8,7 +8,7 @@ It seems that all the poems
 Were written for me  
 I'm in love  
 
-**Verso 2**  
+**Verse 2**  
 It seems that all the people  
 Will read on my skin  
 I'm in love  
