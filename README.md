@@ -11,7 +11,7 @@ Fanslation of the music from Mentiras: El Musical.
 7. [Cómo Te Va Mi Amor (How Are You Doing My Love)](./07-como-te-va-mi-amor)]
 8. [La Pareja Ideal / Celos (The Ideal Couple / Jealousy)](./08-la-pareja-ideal)
 9. [Pobre Secretaria (Poor Secretary)](./09-pobre-secretaria)
-10. [Déjala (Leave Her](./10-leave-her)
+10. [Déjala (Leave Her)](./10-leave-her)
 11. Amiga mía / Ese hombre no se toca
 12. Noche de copas
 13. Lo siento mi amor
