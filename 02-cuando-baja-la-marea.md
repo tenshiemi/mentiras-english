@@ -14,7 +14,7 @@ I don't remember the arch of your eyebrows
 I can barely even speak  
 Of something other than your scent  
 
-**Chorus**
+**Chorus**  
 When the tide goes out my mind  
 Out of pure self-preservation  
 Tries to cauterize every trace  
