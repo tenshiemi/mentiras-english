@@ -1,4 +1,4 @@
-# De Color de Rosa
+# De Color de Rosa - The Color of Pink
 
 **Verso 1**  
 It seems that all the songs  
