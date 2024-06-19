@@ -8,10 +8,10 @@ Fanslation of the music from Mentiras: El Musical.
 4. [De Color de Rosa (The Color of Pink)](./04-de-color-de-rosa.md)
 5. [De Mí Enamórate (Fall in Love with Me)](./05-de-mi-enamorate.md)
 6. [Me Alimento de Ti (I Feed on You)](./06-me-alimento-de-ti)
-7. Cómo te va mi amor
-8. La pareja ideal / Celos
-9. Pobre secretaria
-10. Déjala
+7. [Cómo Te Va Mi Amor (How Are You Doing My Love)](./07-como-te-va-mi-amor)]
+8. [La Pareja Ideal / Celos (The Ideal Couple / Jealousy)](./08-la-pareja-ideal)
+9. [Pobre Secretaria (Poor Secretary)](./09-pobre-secretaria)
+10. [Déjala (Leave Her](./10-leave-her)
 11. Amiga mía / Ese hombre no se toca
 12. Noche de copas
 13. Lo siento mi amor
