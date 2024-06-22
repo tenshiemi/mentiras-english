@@ -19,10 +19,10 @@ Fanslation of the music from Mentiras: El Musical.
 15. [Es Ella Más Que Yo (It's Her More Than Me](./15-es-ella.md)
 16. [Baño de Mujeres (Women's Bathroom)](./16-bano-de-mujeres.md)
 17. [Hombres al Borde de un Ataque de Celos (Men on the Verge of a Jealous Attack)](./17-hombres-el-borde.md)
-18. Medley 1
-19. Quiero dormir cansado
-20. Acaríciame / El gato y yo / Acaríciame
-21. Detrás de mi ventana
+18. [Medley 1](./18-medley-1.md)
+19. [Quiero Dormir Cansado (I Want to Sleep Exhausted](./19-quiero-dormir-cansado.md)
+20. [Acaríciame / El gato y yo / Acaríciame (Caress Me / The Cat and Me / Caress Me)](./20-acariciame.md)
+21. [Detrás de Mi Ventana (Behind My Window](./21-detras-de-mi-ventana.md)
 22. Quiero dormir cansado / Todo se derrumbó dentro de mí
 23. De qué te vale fingir /
 24. Tu muñeca / No soy una muñeca
