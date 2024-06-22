@@ -12,9 +12,9 @@ Fanslation of the music from Mentiras: El Musical.
 8. [La Pareja Ideal / Celos (The Ideal Couple / Jealousy)](./08-la-pareja-ideal)
 9. [Pobre Secretaria (Poor Secretary)](./09-pobre-secretaria)
 10. [Déjala (Leave Her)](./10-leave-her)
-11. Amiga mía / Ese hombre no se toca
-12. Noche de copas
-13. Lo siento mi amor
+11. [Amiga Mía / Ese Hombre No Se Toca (My Friend / That Man Doesn't Touch Himself)](./11-amiga-mia)
+12. [Noche de Copas (Drunken Night)](./12-noche-de-copas)
+13. [Lo Siento Mi Amor (I'm Sorry My Love)](./13-lo-siento-mi-amor)
 14. Te estás pasando
 15. Es ella más que yo
 16. Baño de mujeres
