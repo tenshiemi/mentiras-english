@@ -1,6 +1,7 @@
 # Pobre Secretaria - Poor Secretary
 
-**Verse 1 (Lupita)**  
+**Sung by Lupita, *Emmanuel*** 
+
 It's almost 8, I jump into the shower  
 No, I can't be late  
 Silk stockings, tight skirt  
@@ -21,7 +22,6 @@ I must find an elixir
 Dear boss, you've done it  
 I don't know if I can take more  
 
-**Chorus (Lupita)**  
 Take notice, take notice in your secretary  
 Oh lord, what pain  
 Poor secretary  
@@ -33,8 +33,7 @@ Oh lord, what pain
 Poor secretary  
 I think it's lacking  
 Little to drive me crazy  
-
-**Verse 2 (Lupita, *Emmanuel*)**  
+ 
 The door opens and I gape  
 I feel faint, I don't know why  
 *Come to the office*   
@@ -51,7 +50,6 @@ There is no better antidote
 Call me slave, call me baby  
 And please don't ignore me  
 
-**Chorus (Lupita)**  
 Take notice, take notice in your secretary  
 Oh lord, what pain  
 Poor secretary  
