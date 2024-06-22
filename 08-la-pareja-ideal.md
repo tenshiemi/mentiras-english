@@ -1,5 +1,13 @@
 # La Pareja Ideal / Celos - The Ideal Couple / Jealousy
 
+**Sung by Dulce, *Emmanuel***
+
+Hey Emmanuel, I missed you so much
+I think I wrote you 300 letters and 200 poems
+*Really? Me too, do you want to hear one?*
+Yes
+*Here it goes*
+
 **Verse 1**  
 *You are the thing my life  
 That has given me everything  
@@ -19,7 +27,7 @@ No, I love it and you're my baby
 **Speaking**  
 Where do you walk little bear?  
 
-**Chorus**  
+**Chorus (Daniela)**  
 I'm jealous of your eyes when you look at another girl  
 I'm jealous, jealous  
 I'm jealous of your hands when you hug another girl  
@@ -37,7 +45,7 @@ Baby, are you as happy as me?
 Before I met you, everything was sad  
 I don't know how I could live without you  
 *And I didn't imagine  
-This that bloomed in me  
+This love that bloomed in me  
 And now it makes me so happy*  
 
 **Speaking**  
@@ -52,7 +60,7 @@ I love you more
 *I love you more*  
 I love you more  
 
-**Speaking**  
+**Speaking (with Daniela)**  
 *Hello princess*  
 Little bear, how was your flight?  
 I was calling you all night at the hotel  
@@ -64,7 +72,7 @@ I have a convention*
 Oh! Well, don't worry, I'll go alone  
 For a change Emmanuel, what's going on?  
 
-**Bridge**  
+**Bridge (Everyone)**  
 Today I want to dance only with you  
 Today I want to dream that you are mine  
 
@@ -74,7 +82,7 @@ Today I will give you all my love in a hug (because holding hands, there is noth
 We will always be the couple (and you will promise that never again)  
 Ideal (You will never again make me feel) 
 
-**Chorus**  
+**Chorus (Daniela)**  
 Never jealous of your eyes  
 When you look at another girl  
 I'm jealous, jealous (Because holding hands, there's nothing)  
