@@ -1,5 +1,7 @@
 # De Color de Rosa - The Color of Pink
 
+**Sung by Daniela**
+
 **Verse 1**  
 It seems that all the songs  
 Will be singing of me today  
