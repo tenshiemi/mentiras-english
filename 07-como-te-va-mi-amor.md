@@ -1,5 +1,7 @@
 # Cómo Te Va Mi Amor - How Are You Doing My Love
 
+**Sung by Dulce, *Emmanuel***
+
 **Speaking**  
 *Dulce?*  
 Emmanuel?  
