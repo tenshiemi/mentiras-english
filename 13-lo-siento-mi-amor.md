@@ -1,5 +1,7 @@
 # Lo Siento Mi Amor - I'm Sorry My Love
 
+**Sung by Dulce**
+
 I'm sorry my love but today I'm going to tell you  
 Although I may lack courage when speaking to your face  
 I'm sorry my love but I'm tired of pretending  
