@@ -3,7 +3,7 @@
 **Sung by Lupita**
 
 Check it out, teacher  
-Hello Boys!  
+Hello boys!  
 Take care of me darlings  
 
 High heels  
