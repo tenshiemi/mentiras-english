@@ -1,5 +1,7 @@
 # Te Estás Pasando - You're Going Too Far
 
+**Sung by Lupita**
+
 I didn't know that at this party I would see you so happy  
 And that you would be so distant from my world  
 Accompanied and arm in arm with each other  
