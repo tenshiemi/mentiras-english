@@ -1,5 +1,7 @@
 # Baño de Mujeres - Women's Bathroom
 
+**Sung by Emmanuel**
+
 Princess, for God's sake. All this must be gossip and I'm going to explain it to you. I swear.  
 Oh! But where could the gossip have come from? I already know.  
 
