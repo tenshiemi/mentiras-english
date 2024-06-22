@@ -1,4 +1,4 @@
-# Noche de Copas - Night of Drinking
+# Noche de Copas - Drunken Night
 
 I don't ask for your forgiveness because I had reasons  
 You were so far away and I was so bad  
