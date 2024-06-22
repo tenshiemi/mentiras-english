@@ -1,5 +1,7 @@
 # Es Ella Más Que Yo - It's Her More Than Me
 
+**Sung by Daniela**
+
 Don't set conditions, enough of hypocrisy  
 I am the woman, you are the man, alone in the face of life  
 A pair of hearts looking for love  
