@@ -1,6 +1,6 @@
 # Mentiras: El Musical (English Lyrics)
 
-Fanslation of the music from Mentiras: El Musical. 
+Fanslation of the music from Mentiras: El Musical. I am not fluent in Spanish so I did my best with the help of Google Translate!
 
 1. [Castillos (Castles)](./01-castillos.md)
 2. [Cuando Baja la Marea (When the Tide Goes Out)](./02-cuando-baja-la-marea.md)
