@@ -22,13 +22,13 @@ Fanslation of the music from Mentiras: El Musical.
 18. [Medley 1](./18-medley-1.md)
 19. [Quiero Dormir Cansado (I Want to Sleep Exhausted](./19-quiero-dormir-cansado.md)
 20. [Acaríciame / El gato y yo / Acaríciame (Caress Me / The Cat and Me / Caress Me)](./20-acariciame.md)
-21. [Detrás de Mi Ventana (Behind My Window](./21-detras-de-mi-ventana.md)
-22. Quiero dormir cansado / Todo se derrumbó dentro de mí
-23. De qué te vale fingir /
-24. Tu muñeca / No soy una muñeca
-25. Solamente amigas
-26. Toda la vida
-27. Mudanzas
-28. Megamix
+21. [Detrás de Mi Ventana (Behind My Window)](./21-detras-de-mi-ventana.md)
+22. [Quiero Dormir Cansado / Todo Se Derrumbó Dentro de Mí (I Want to Sleep Exhausted / Everything Collapsed Within Me)](./22-todo-se-derrumbo.md)
+23. [De Qué Te Vale Fingir (What's the Point of Pretending)](./23-de-que-te-vale-fingir.md)
+24. [Tu Muñeca / No Soy Una Muñeca (Your Doll, I Am Not A Doll)](./24-tu-muneca.md)
+25. [Solamente Amigas (Only Friends)](./25-solamente-amigas.md)
+26. [Toda la Vida (All My Life)](./26-toda-la-vida.md)
+27. [Mudanzas (Removals)](./27-mudanzas.md)
+28. [Megamix](./28-megamix.md)
 
 
