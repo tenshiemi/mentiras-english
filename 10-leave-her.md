@@ -1,6 +1,6 @@
 # Déjala - Leave Her
 
-**Sung by Lupita and *Emmanuel***
+**Sung by Yuri and *Emmanuel***
 
 *Well*  
 Where have you been today?  
