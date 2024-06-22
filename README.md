@@ -15,10 +15,10 @@ Fanslation of the music from Mentiras: El Musical.
 11. [Amiga Mía / Ese Hombre No Se Toca (My Friend / That Man Doesn't Touch Himself)](./11-amiga-mia)
 12. [Noche de Copas (Drunken Night)](./12-noche-de-copas)
 13. [Lo Siento Mi Amor (I'm Sorry My Love)](./13-lo-siento-mi-amor)
-14. Te estás pasando
-15. Es ella más que yo
-16. Baño de mujeres
-17. Hombres al borde de un ataque de celos
+14. [Te Estás Pasando (You're Going Too Far)](./14-te-estas-pasando)
+15. [Es Ella Más Que Yo (It's Her More Than Me](./15-es-ella)
+16. [Baño de Mujeres (Women's Bathroom)](./16-bano-de-mujeres)
+17. [Hombres al Borde de un Ataque de Celos (Men on the Verge of a Jealous Attack)](./17-hombres-el-borde)
 18. Medley 1
 19. Quiero dormir cansado
 20. Acaríciame / El gato y yo / Acaríciame
