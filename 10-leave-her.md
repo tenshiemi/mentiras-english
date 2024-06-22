@@ -1,5 +1,7 @@
 # Déjala - Leave Her
 
+**Sung by Lupita and *Emmanuel***
+
 *Well*  
 Where have you been today?  
 *Yes, it's me*  
